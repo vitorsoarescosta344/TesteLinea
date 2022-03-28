@@ -1,0 +1,25 @@
+.profile-area {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+
+.cargo {
+  color: #e7635f;
+  font-size: 18px;
+}
+
+.edit-perfil {
+  color: #575757;
+  font-size: 16px;
+}
+
+.sidebar-button:hover {
+  background-color: #e7635f;
+  color: #fff;
+}
+
+.button-text {
+  margin-left: 10px;
+}

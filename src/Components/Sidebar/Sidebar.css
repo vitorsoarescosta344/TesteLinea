@@ -1,0 +1,12 @@
+.container {
+  z-index: 30;
+  width: 16rem;
+  overflow-y: auto;
+  flex-shrink: 0;
+  display: block;
+}
+
+.body {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}

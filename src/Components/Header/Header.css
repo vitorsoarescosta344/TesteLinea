@@ -1,0 +1,38 @@
+.header-content {
+  display: flex;
+
+  height: 150px;
+  width: 1200px;
+  margin-bottom: 0px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-buttons {
+  font-size: 20px;
+}
+
+.header-container {
+  border-bottom: 2px solid #d6d7d8;
+
+  margin-bottom: 20px;
+}
+
+.container-input {
+  width: 500px;
+}
+
+.people {
+  display: flex;
+  flex-direction: row;
+  width: 160px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.container-buttons-header {
+  width: 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
